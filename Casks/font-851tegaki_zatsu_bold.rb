@@ -6,6 +6,6 @@ cask :v1 => 'font-851tegaki_zatsu_bold' do
   homepage 'http://www39.atpages.jp/yagoinienie/851fontpage.html'
   license :unknown
 
-  font '851tegakizatsu_bold.ttf'
+  font '851tegakizatsu_0875_bold.ttf'
 end
 
