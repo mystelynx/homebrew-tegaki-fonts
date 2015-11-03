@@ -6,6 +6,6 @@ cask :v1 => 'font-ghatee' do
   homepage 'http://marusexijaxs.web.fc2.com/tegakifont.html#tegakifont2'
   license :unknown
 
-  font 'ghatee-tte/ghatee.ttf'
+  font 'ghatee_tte/ghatee.ttf'
 end
 
