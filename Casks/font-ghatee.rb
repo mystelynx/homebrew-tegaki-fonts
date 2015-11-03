@@ -1,6 +1,5 @@
 cask :v1 => 'font-ghatee' do
-  #version '2.06'
-  version :latest
+  version '2.06'
   sha256 :no_check
 
   url 'http://marusexijaxs.web.fc2.com/ghatee_tte.zip'
